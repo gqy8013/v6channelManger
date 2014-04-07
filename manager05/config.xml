@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='GB2312'?>
+<ProgramMetaInfo>
+    <program id="1">
+        <programName>CCTV-5</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="2">
+        <programName>VVCT</programName>
+        <url>cdn1.v6speed.org:50001</url>
+        <type>1</type>
+        <Port1>8888</Port1>
+        <Port2>9999</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="3">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::244]:3004</url>
+        <type>2</type>
+        <Port1>50003</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+        <vlcCommand>http://[2001:da8:8000:6007::243]:3096/ :sout=#http{mux=ts,dst=:8080/} :sout-all :sout-keep</vlcCommand>
+    </program>
+    <program id="4">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::244]:3118</url>
+        <type>1</type>
+        <Port1>50004</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="5">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::244]:3104</url>
+        <type>2</type>
+        <Port1>50005</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="6">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="7">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="8">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="9">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="10">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="11">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="12">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="13">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="14">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="15">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="16">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="17">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="18">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="19">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="20">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="21">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="22">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>start</Status>
+    </program>
+    <program id="23">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="24">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="25">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="26">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="27">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="28">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="29">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+    <program id="30">
+        <programName>CCTV-1</programName>
+        <url>http://[2001:da8:8000:6007::242]:3002</url>
+        <type>0</type>
+        <Port1>50001</Port1>
+        <Port2>0</Port2>
+        <Status>stop</Status>
+    </program>
+</ProgramMetaInfo>
